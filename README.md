@@ -7,8 +7,7 @@ view.setOnClickListener(new View.OnClickListener() {
   @SingleClick
   @Override
     public void onClick(View v) {
-      num++;
-      textView.setText("点击了" + num +"次");
+      //to do
     }
 });
 ```
